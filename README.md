@@ -1,0 +1,2 @@
+# infinite
+Infinite game wiki
